@@ -2,7 +2,7 @@ package com.example;
 
 import java.util.Scanner;
 
-public class Main {
+public class ContaTerminal {
     public static void main(String[] args) {
 
         // Cria um objeto Scanner para ler dados do terminal
